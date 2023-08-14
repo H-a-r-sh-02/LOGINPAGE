@@ -11,8 +11,9 @@ body {
   background: url(https://wallpaperaccess.com/full/3087990.jpg);
 }
 .background {
-  background: url(backgroun.jpg) no-repeat;
+  background: url(https://wallpaperaccess.com/full/3087990.jpg) no-repeat;
   background-position: center;
+  background-attachment: fixed;
   background-size: cover;
   height: 100vh;
   width: 100%;
